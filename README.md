@@ -10,7 +10,6 @@ Welcome to the Gemini AI Clone project! This project aims to provide a streamlin
 4. [Usage](#usage)
 5. [Live Demo](#live-demo)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
